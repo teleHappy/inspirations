@@ -1,6 +1,6 @@
 # Inspirations Viewer
 
-Simnple app that cycles display of quotes that are meant to inspire the viewer.
+Simnple React app that cycles display of quotes that are meant to inspire the viewer.
 
 ## Set up
 
