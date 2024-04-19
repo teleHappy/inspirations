@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.quote {
+  opacity: 1;
+  transition: all 0.5s;
+}
+
+.quote.hide {
+  opacity: 0;
+}
